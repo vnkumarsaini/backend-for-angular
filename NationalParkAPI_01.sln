@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NationalParkAPI_01", "NationalParkAPI_01\NationalParkAPI_01.csproj", "{1F0A5788-D989-4B23-94A7-7EC47CDB43F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP_Web_App", "NP_Web_App\NP_Web_App.csproj", "{BD888E48-033B-4BF6-B704-B716D6884F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0A5788-D989-4B23-94A7-7EC47CDB43F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0A5788-D989-4B23-94A7-7EC47CDB43F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0A5788-D989-4B23-94A7-7EC47CDB43F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0A5788-D989-4B23-94A7-7EC47CDB43F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD888E48-033B-4BF6-B704-B716D6884F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD888E48-033B-4BF6-B704-B716D6884F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD888E48-033B-4BF6-B704-B716D6884F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD888E48-033B-4BF6-B704-B716D6884F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {860F5954-98DF-4DAB-A09B-BC979E070D42}
+	EndGlobalSection
+EndGlobal
